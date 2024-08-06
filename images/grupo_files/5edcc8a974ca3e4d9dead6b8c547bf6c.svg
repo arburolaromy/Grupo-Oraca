@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'
+          'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg data-name="Layer 1" height="695.0" preserveAspectRatio="xMidYMid meet" version="1.0" viewBox="152.5 152.5 695.0 695.0" width="695.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+><defs
+  ><linearGradient gradientUnits="userSpaceOnUse" id="a" x1="500" x2="500" xlink:actuate="onLoad" xlink:show="other" xlink:type="simple" y1="123.394" y2="838.978"
+    ><stop offset="0" stop-color="#36d60e"
+      /><stop offset="1" stop-color="#099132"
+    /></linearGradient
+    ><linearGradient id="b" x1="500" x2="500" xlink:actuate="onLoad" xlink:href="#a" xlink:show="other" xlink:type="simple" y1="796.73" y2="222.837"
+  /></defs
+  ><circle cx="500" cy="500" fill="url(#a)" r="347.52"
+  /><circle cx="500" cy="500" fill="url(#b)" r="289.934"
+  /><g id="change1_1"
+  ><path d="m654.014,629.268l3.465-3.465c17.045-17.045,14.773-45.301-4.778-59.403l-28.817-20.785c-18.344-13.232-43.578-11.202-59.572,4.792l-3.892,3.892c-10.777,10.777-27.386,13.167-40.739,5.823-33.247-18.286-59.749-44.972-79.507-80.057-7.579-13.459-5.373-30.3,5.549-41.222l3.512-3.512c15.994-15.994,18.023-41.228,4.792-59.572l-20.785-28.817c-14.102-19.551-42.357-21.824-59.403-4.778l-2.483,2.483c-35.373,35.373-41.95,90.378-15.876,133.071,42.751,69.998,97.621,125.985,165.207,167.27,42.787,26.137,97.874,19.735,133.328-15.718Z" fill="#fff"
+  /></g
+></svg
+>
